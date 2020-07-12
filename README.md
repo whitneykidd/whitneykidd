@@ -1,3 +1,5 @@
+![gh_banner](https://user-images.githubusercontent.com/54954621/87253918-24a38700-c43c-11ea-8449-72f20feec967.jpg)
+
 ### Hi, I'm Whitney.
 
 ⚡ Full README Coming Soon ⚡ 
