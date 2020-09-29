@@ -1,6 +1,4 @@
-
-![gh_banner](https://user-images.githubusercontent.com/54954621/87253918-24a38700-c43c-11ea-8449-72f20feec967.jpg)
-
+![gh-banner](https://user-images.githubusercontent.com/54954621/94604997-b493e880-0255-11eb-8dc6-b0b2cfb5dacb.png)
 <!--
 **whitneykidd/whitneykidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
